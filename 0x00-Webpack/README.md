@@ -1,5 +1,5 @@
-# Learning Objectives
-
+# 0x00. Webpack
+## Learning Objectives
 - How to setup Webpack for a basic project
 - Entry points, output, and loaders
 - How to add plugins
